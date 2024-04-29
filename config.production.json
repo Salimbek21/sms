@@ -1,0 +1,9 @@
+{
+    "smsc": {
+      "host": "prod.smsc.com",
+      "port": 30017,
+      "username": "prod_user",
+      "password": "prod_password"
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "smsc": {
+      "host": "172.30.136.232",
+      "port": 30017,
+      "username": "beepul_intest",
+      "password": "pass"
+    }
+}
+  
